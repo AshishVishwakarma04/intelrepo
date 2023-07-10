@@ -5,4 +5,4 @@ When this project were created, this references above used. Used SSD-MobileNet m
 For better detection for bad visibility areas, i added CLAHE preprocessing method. 
 
 
-<img src="https://github.com/KubraTurker/Social_Distancing-CV/blob/master/example.png">
+<img src="https://github.com/AshishVishwakarma04/intelrepo/blob/main/example.png">
